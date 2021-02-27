@@ -1,0 +1,12 @@
+{
+  "name": "@app/express-server",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ramda": "^0.27.1",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.2"
+  },
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  }
+}

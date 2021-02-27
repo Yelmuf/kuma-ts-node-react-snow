@@ -1,0 +1,8 @@
+{
+  "name": "snow-ts-fullstack",
+  "version": "0.0.0-dev",
+  "workspaces": [
+    "client",
+    "server"
+  ]
+}
